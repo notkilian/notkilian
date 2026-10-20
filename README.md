@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=625&height=44&lines=I%20do%20a%20bit%20of%20everything%20%3A);But%20most%20of%20the%20projects%20end%20up%20deleted" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=670&height=44&lines=I%20do%20a%20bit%20of%20everything%20%3A);But%20most%20of%20the%20projects%20end%20up%20deleted%20%3A(" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
