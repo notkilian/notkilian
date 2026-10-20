@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-Student at Otto-Hahn-Gymnasium in Monheim am Rhein, Germany. I love anything easy to understand.
+Student at Otto-Hahn-Gymnasium in Monheim am Rhein, Germany. I love anything that's easy to understand.
 
-🔭 &nbsp;I'm currently working on **Velto, 7zip-like with plugins**  
+🔭 &nbsp;I'm currently working on **MinX, 7zip-like with plugins**  
 🌱 &nbsp;I'm currently learning **Java**  
 😄 &nbsp;Pronouns: **he/him**
 
