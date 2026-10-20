@@ -12,7 +12,7 @@
 
 Student at Otto-Hahn-Gymnasium in Monheim am Rhein, Germany. I love anything easy to understand.
 
-🔭 &nbsp;I'm currently working on **Verve, 7zip-like with plugins**  
+🔭 &nbsp;I'm currently working on **Velto, 7zip-like with plugins**  
 🌱 &nbsp;I'm currently learning **Java**  
 😄 &nbsp;Pronouns: **he/him**
 
